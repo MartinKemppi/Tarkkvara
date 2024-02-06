@@ -7,3 +7,14 @@
 Проект по разработке - Arendusprojekt
 Проект по реализации - Realiseerimis projekt
 Диаграмма Ганта - Gantti diagramm
+критический путь проекта - projekti kriitilist tee
+виды рисков в проекте - projekti riskide liigid
+аутсортсинг - allhanke
+краудсортсинг - 
+ИТ аудит - IT audiit
+ERP системы - ERP süsteemid
+ROI для оценки проектов -
+Tacit - 
+Knowledge Managment System - 
+cистемы управления базами данных – какие знаете? MSSQL , XAMPP
+Project Managment Tool -
