@@ -7,6 +7,7 @@
 Проект по разработке - Arendusprojekt
 Проект по реализации - Realiseerimis projekt
 Диаграмма Ганта - Gantti diagramm
+
 критический путь проекта - projekti kriitiline tee
 виды рисков в проекте - projekti riskide liigid
 аутсортсинг - allhanke
@@ -17,4 +18,27 @@ ROI для оценки проектов - Projektide hindamiseks / ROI
 Tacit - süsteemid Tacit
 Knowledge Managment System - KMS - 
 cистемы управления базами данных – какие знаете? Andmebaaside halduse süsteemid - MSSQL , XAMPP, PostgreSQL
-Project Managment Tool - Projekti haldamise tarkvara - MS Project, Project Libre
+Project Managment Tool - Projekti haldamise tarkvara - MS Project, Project Libre, Atlassian
+
+mudel - модель
+kasutusmalliskeem - диаграмма прецедентов
+tegevusskeem - диаграмма активности / диаграмма деятельности
+
+jadaskeem - диаграмма последовательностей
+klassiskeem - диаграмма классов
+koostööskeem - диаграмма взаимодейсвтия
+
+olem - сущность
+seos - связь
+andmebaasiskeem - диаграмма базы данных
+
+muster - узор/схема/шаблон
+mustand - черновик
+
+punkt - точка
+romb - ромб
+ristkülik - прямоугольник
+nool - стрелка
+joon - линия
+algussõlm - начальный узел
+ovaal - овал
