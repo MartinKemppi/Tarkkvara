@@ -42,3 +42,6 @@ nool - стрелка
 joon - линия
 algussõlm - начальный узел
 ovaal - овал
+
+kavand - план, схема, макет
+kavandamine - планирование
