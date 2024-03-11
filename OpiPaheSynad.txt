@@ -51,3 +51,6 @@ andmetöötlussüsteem - riistvarast, tarkvarast ja inimestest koosnev süsteem 
 rakendustarkvara - programmid, millega saab inimene arvutis midagi kasulikku teha
 bios - osa süsteemist, mis on vajalik sisesndi ja väljundi jaoks
 süsteemi tarkvara - kõik programmid, mis tagavad, et arvuti ja tema lisaseadmed suudaksid koos funktsioneerida
+
+
+versioonihaldussüsteem - система управления версиями
